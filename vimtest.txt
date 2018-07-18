@@ -4,3 +4,9 @@ this is documents
 val1 = a
 val2 = b
 val3 = aa
+
+
+# yank(vim clipboard) = y
+# paste = shift + p
+# ?th redo = <?> ctrl + r
+# ?th undo = <?> u
